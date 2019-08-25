@@ -1,0 +1,14 @@
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\SumOfLeftLeaves_404.deps.json
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\SumOfLeftLeaves_404.runtimeconfig.json
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\SumOfLeftLeaves_404.runtimeconfig.dev.json
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\SumOfLeftLeaves_404.dll
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\SumOfLeftLeaves_404.pdb
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.csprojAssemblyReference.cache
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.csproj.CoreCompileInputs.cache
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.AssemblyInfoInputs.cache
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.AssemblyInfo.cs
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.dll
+G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.pdb
+g:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\Common.dll
+g:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\Common.pdb
+g:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.csproj.CopyComplete
