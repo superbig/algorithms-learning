@@ -12,3 +12,16 @@ G:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\ne
 g:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\Common.dll
 g:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\Common.pdb
 g:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.csproj.CopyComplete
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\SumOfLeftLeaves_404.deps.json
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\SumOfLeftLeaves_404.runtimeconfig.json
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\SumOfLeftLeaves_404.runtimeconfig.dev.json
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\SumOfLeftLeaves_404.dll
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\SumOfLeftLeaves_404.pdb
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\Common.dll
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\bin\Debug\netcoreapp2.1\Common.pdb
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.csprojAssemblyReference.cache
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.AssemblyInfoInputs.cache
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.AssemblyInfo.cs
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.csproj.CopyComplete
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.dll
+D:\Github\algorithms-learning\leetcode\problems\SumOfLeftLeaves_404\obj\Debug\netcoreapp2.1\SumOfLeftLeaves_404.pdb

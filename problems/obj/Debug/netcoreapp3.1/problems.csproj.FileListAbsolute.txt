@@ -1,0 +1,11 @@
+D:\Github\algorithms-learning\problems\bin\Debug\netcoreapp3.1\problems.exe
+D:\Github\algorithms-learning\problems\bin\Debug\netcoreapp3.1\problems.deps.json
+D:\Github\algorithms-learning\problems\bin\Debug\netcoreapp3.1\problems.runtimeconfig.json
+D:\Github\algorithms-learning\problems\bin\Debug\netcoreapp3.1\problems.runtimeconfig.dev.json
+D:\Github\algorithms-learning\problems\bin\Debug\netcoreapp3.1\problems.dll
+D:\Github\algorithms-learning\problems\bin\Debug\netcoreapp3.1\problems.pdb
+D:\Github\algorithms-learning\problems\obj\Debug\netcoreapp3.1\problems.csprojAssemblyReference.cache
+D:\Github\algorithms-learning\problems\obj\Debug\netcoreapp3.1\problems.AssemblyInfoInputs.cache
+D:\Github\algorithms-learning\problems\obj\Debug\netcoreapp3.1\problems.AssemblyInfo.cs
+D:\Github\algorithms-learning\problems\obj\Debug\netcoreapp3.1\problems.dll
+D:\Github\algorithms-learning\problems\obj\Debug\netcoreapp3.1\problems.pdb

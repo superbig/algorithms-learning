@@ -1,0 +1,11 @@
+D:\Github\algorithms-learning\leetcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Github\algorithms-learning\leetcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Github\algorithms-learning\leetcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Github\algorithms-learning\leetcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Github\algorithms-learning\leetcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Github\algorithms-learning\leetcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Github\algorithms-learning\leetcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\Github\algorithms-learning\leetcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Github\algorithms-learning\leetcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Github\algorithms-learning\leetcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Github\algorithms-learning\leetcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb

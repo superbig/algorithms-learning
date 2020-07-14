@@ -7,3 +7,11 @@ g:\Github\algorithms-learning\leetcode\problems\Common\obj\Debug\netstandard2.0\
 g:\Github\algorithms-learning\leetcode\problems\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
 g:\Github\algorithms-learning\leetcode\problems\Common\obj\Debug\netstandard2.0\Common.dll
 g:\Github\algorithms-learning\leetcode\problems\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\Github\algorithms-learning\leetcode\problems\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\Github\algorithms-learning\leetcode\problems\Common\bin\Debug\netstandard2.0\Common.dll
+D:\Github\algorithms-learning\leetcode\problems\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\Github\algorithms-learning\leetcode\problems\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\Github\algorithms-learning\leetcode\problems\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\Github\algorithms-learning\leetcode\problems\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\Github\algorithms-learning\leetcode\problems\Common\obj\Debug\netstandard2.0\Common.dll
+D:\Github\algorithms-learning\leetcode\problems\Common\obj\Debug\netstandard2.0\Common.pdb
