@@ -6,7 +6,8 @@ namespace com.lzx.leetcode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var example = new Tree102();
+            example.Execute();
         }
     }
 }
