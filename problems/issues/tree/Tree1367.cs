@@ -45,6 +45,6 @@ public class Tree1367
 
     public bool IsSubPath(ListNode head, TreeNode root)
     {
-
+        return false;
     }
 }
