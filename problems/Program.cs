@@ -9,8 +9,8 @@ namespace com.lzx.leetcode
             // var example = new Tree102();
             // example.Execute();
 
-            var path = @"D:\P4Workspace\VP\trunk\client\Assets\Framework";
-            var pattern = "*.cs";
+            var path = @"D:\perforce\VP\trunk\client\Assets\Wwise";
+            var pattern = "*.*";
 
             Utils.PrintPathFileCount(path, pattern);
         }
